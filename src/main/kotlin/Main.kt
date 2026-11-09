@@ -1,6 +1,7 @@
 package pokemon
 
-import pokemon.ui.GameWindow
+
+import ui.GameWindow
 import javax.swing.SwingUtilities
 
 fun main() {

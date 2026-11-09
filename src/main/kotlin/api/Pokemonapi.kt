@@ -1,6 +1,6 @@
 package pokemon.api
 
-import pokemon.model.Pokemon
+import model.Pokemon
 import java.awt.image.BufferedImage
 import java.net.URL
 import javax.imageio.ImageIO

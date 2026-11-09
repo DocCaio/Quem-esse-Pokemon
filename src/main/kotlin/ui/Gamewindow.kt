@@ -1,7 +1,8 @@
 package ui
 
-import api.PokemonApi
+
 import model.Pokemon
+import pokemon.api.PokemonApi
 import util.normalize
 import util.scaled
 import util.silhouette
